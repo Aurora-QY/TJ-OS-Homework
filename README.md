@@ -9,5 +9,6 @@
  ![image](https://github.com/Aurora-QY/TJ-OS-Homework/assets/129862200/f6823618-e9ca-4684-9bb6-dab955136e32)
 
  3.伪文件系统
+ 
  <img width="499" alt="image" src="https://github.com/Aurora-QY/TJ-OS-Homework/assets/129862200/c4121f38-8d92-43c9-8f92-35d91b6083cb">
  <img width="498" alt="image" src="https://github.com/Aurora-QY/TJ-OS-Homework/assets/129862200/5c97582d-a472-4936-a985-aca5da54c178">
