@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Back1.png</file>
+        <file>icons/Back2.png</file>
+        <file>icons/Back3.png</file>
+        <file>icons/AddDir1.png</file>
+        <file>icons/AddDir2.png</file>
+        <file>icons/AddDir3.png</file>
+        <file>icons/AddFile1.png</file>
+        <file>icons/AddFile2.png</file>
+        <file>icons/AddFile3.png</file>
+        <file>icons/Format1.png</file>
+        <file>icons/Format2.png</file>
+        <file>icons/Format3.png</file>
+        <file>icons/Dir1.png</file>
+        <file>icons/Dir2.png</file>
+        <file>icons/Dir3.png</file>
+        <file>icons/File1.png</file>
+        <file>icons/File2.png</file>
+        <file>icons/File3.png</file>
+    </qresource>
+</RCC>
